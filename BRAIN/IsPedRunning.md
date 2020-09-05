@@ -9,6 +9,12 @@ BOOL IS_PED_RUNNING(Ped ped);
 ```
 
 
+```
+This returns true if you tap shift and you start to jog
+Use IsPedSprinting to check if the player is holding the sprint key
+```
+
+
 ## Parameters
 * **ped**: 
 
