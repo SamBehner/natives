@@ -9,6 +9,10 @@ aliases: ["_GET_ANIM_DURATION"]
 float GET_ANIM_DURATION(char* animDict, char* animName);
 ```
 
+```
+Returns time in seconds, multiply by 1000 for miliseconds
+```
+
 [Animations list](https://alexguirre.github.io/animations-list/)
 
 ## Parameters
